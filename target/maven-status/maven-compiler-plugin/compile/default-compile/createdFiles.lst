@@ -1,0 +1,10 @@
+winterschoolone\ShopApplication.class
+winterschoolone\Payed.class
+winterschoolone\Assigned.class
+winterschoolone\ShopRepository.class
+winterschoolone\AbstractEvent$1.class
+winterschoolone\ShopController.class
+winterschoolone\PolicyHandler.class
+winterschoolone\Shop.class
+winterschoolone\config\kafka\KafkaProcessor.class
+winterschoolone\AbstractEvent.class
