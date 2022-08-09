@@ -10,6 +10,6 @@ spec:
     app:  petfrindsshop-backend
   type: NodePort
   ports:
-    - port: 80
-      targetPort: 8081
+    - port: 8083
+      targetPort: 8080
       protocol: TCP
